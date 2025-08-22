@@ -7,3 +7,15 @@
 
 score = 20
 fullname = 'สมชาย'
+salary = input('ป้อนเงินเดือน: ')
+sum = 20 + 30
+print('----------------------')
+num = 10
+num += 10 # num = num + 10
+num -= 10 # num = num - 10
+num *= 10 # num = num * 2
+num /= 10 # num = num / 2
+num %= 10 # num = num % 2
+num //= 10 # num = num // 2
+print(num)
+print('-----------------------')
